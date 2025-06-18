@@ -1,0 +1,35 @@
+body {
+    background-color: cadetblue;
+}
+
+h1 {
+    color: wheat;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h3 {
+    color: wheat;
+    font-size: 40px;
+}
+.nomeVisitante {
+    color: antiquewhite;
+}
+
+.botao {
+    height: 50px;
+    width: 200px;
+    background-color: green;
+    color:wheat;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.botao:hover {
+    background-color: orange;
+    color: black;
+}
+
+.link {
+    color: black;
+}
